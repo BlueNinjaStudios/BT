@@ -1,4 +1,4 @@
-import tokenizer
+from tokenizer import *
 
 # Testclass for tokenizer
 
